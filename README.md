@@ -7,4 +7,4 @@ A simple GUI for youtube-dl.
 
 # How to Use
 1. Copy a youtube url and hit download.
-2. Video Files will be saved at "My PC\William\Documents\youtube-dl"
+2. Video Files will be saved at "My PC\Documents\youtube-dl"
